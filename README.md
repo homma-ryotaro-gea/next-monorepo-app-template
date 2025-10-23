@@ -8,3 +8,4 @@
    ```shell
    rm -rf .git 
    ```
+5. .envファイルを作成
