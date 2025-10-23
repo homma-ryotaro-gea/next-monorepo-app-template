@@ -15,8 +15,8 @@ const fontMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: "Partner",
-	description: "Partner",
+	title: "Sample",
+	description: "Sample",
 };
 
 export default function RootLayout({
